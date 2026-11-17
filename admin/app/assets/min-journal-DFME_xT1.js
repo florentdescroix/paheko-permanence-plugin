@@ -1,0 +1,1 @@
+import{I as e,d as t,v as n}from"./min-runtime-core.esm-bundler-DJurseJa.js";import{t as r}from"./min-route-block-ChiJXsfH.js";import{t as i}from"./min-TransactionList-C87tO9s0.js";var a=n({__name:`journal`,setup(n){return(n,r)=>(e(),t(i))}});typeof r==`function`&&r(a);var o=a;export{o as default};

@@ -1,0 +1,1 @@
+function e(e=new Date){let t=e.getTimezoneOffset();return new Date(e.getTime()-t*60*1e3).toISOString().split(`T`,1)[0]}export{e as t};

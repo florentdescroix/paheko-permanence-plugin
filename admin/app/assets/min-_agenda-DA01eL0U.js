@@ -1,0 +1,1 @@
+import{I as e,d as t,v as n}from"./min-runtime-core.esm-bundler-DJurseJa.js";import{t as r}from"./min-VTable-DEUazah3.js";var i=n({__name:`_agenda`,setup(n){return(n,i)=>(e(),t(r,{"fixed-header":``,height:`calc(100vh - 128px)`}))}});export{i as default};
